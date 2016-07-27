@@ -1,0 +1,20 @@
+﻿<Window x:Class="DoumeraNetChat.AboutDoumeraNetChat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoumeraNetChat"
+        mc:Ignorable="d"
+        Title="About Window" Height="413.403" Width="358.042" WindowStartupLocation="CenterOwner" Background="White" MouseDown="Window_MouseDown" BorderBrush="SkyBlue" BorderThickness="1" AllowsTransparency="True" WindowStyle="None" ResizeMode="NoResize">
+    <Grid Margin="1" Background="{DynamicResource PaperPlaneBackGround}">
+        <TextBlock TextWrapping="Wrap" Text="Doumera NetChat." FontSize="20" FontFamily="verdana" Height="26" HorizontalAlignment="Center" Margin="70.714,25.143,76.146,0" VerticalAlignment="Top"/>
+        <TextBlock Text="Version 1.00" Foreground="Gray" Width="67" HorizontalAlignment="Left" Margin="30,59,0,0" VerticalAlignment="Top" />
+        <Label Content="This is a chat application which permits chatting via a &#xD;&#xA;network.&#xD;&#xA;It permits only the transfer of text messages over a &#xD;&#xA;range which is equal to that of the network.&#xD;&#xA;In the absence of  a network, the user can create a &#xD;&#xA;Wi-Fi network with this app, which will permit chatting&#xD;&#xA;over a distance of about 100 meters. &#xD;&#xA;&#xD;&#xA;Please this version of the software is free and illegal &#xD;&#xA;reproduction  or copying is forbidden.&#xD;&#xA;&#xD;&#xA;Made by: Damien Doumer.&#xD;&#xA;email address: damientohin@gmail.com&#xD;&#xA;contact: 694890754" Margin="30,100,22,75.586"/>
+        <Border x:Name="closeBorder" BorderThickness="2" Height ="24" MouseDown ="closeBorderMouseLeftButtonUp"
+                    Width="63" BorderBrush="Transparent" MouseEnter="closeBorderMouseEnter" 
+                    MouseLeave="closeBorderMouseLeave" Background="Transparent" HorizontalAlignment="Right"
+                    Margin="0,0,22,34.242" VerticalAlignment="Bottom">
+            <TextBlock TextWrapping="Wrap" FontFamily="verdana" FontSize="15" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="DodgerBlue" Text="Close"/>
+        </Border>
+        </Grid>
+</Window>

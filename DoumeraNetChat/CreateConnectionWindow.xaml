@@ -1,0 +1,22 @@
+﻿<Window x:Class="DoumeraNetChat.CreateConnectionWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DoumeraNetChat"
+        mc:Ignorable="d"
+        Title="CreateConnectionWindow" Icon="Icons\Doumera Icon.png"  Background="{DynamicResource MainBackGround}" Height="221.019" Width="448.443" ResizeMode="CanMinimize">
+    <Canvas>
+        <TextBox x:Name="SSIDTextBox" Height="20" Canvas.Left="92" TextWrapping="Wrap" Canvas.Top="46" Width="329"/>
+        <PasswordBox x:Name="passwordBox" Canvas.Left="92" Canvas.Top="91" Width="329" Height="20"/>
+        <Button x:Name="startStopBtn" Click="startStopBtn_Click"
+                Style="{DynamicResource GlassButtonStyle}" Content="Start" Width="75" Canvas.Left="346" Canvas.Top="131" Height="24"/>
+        <Label x:Name="nameLabel" Content="Name" Canvas.Left="12" Canvas.Top="40" Width="58"/>
+        <Label x:Name="passwordLabel" Content="Password" Canvas.Left="10" Canvas.Top="85"/>
+        <Label x:Name="statusLabel" Canvas.Left="12" Canvas.Top="160" Width="409" Height="26"/>
+        <Label x:Name="aboutLabel" MouseEnter="aboutLabel_MouseEnter" MouseLeave="aboutLabel_MouseLeave"
+               MouseLeftButtonUp="aboutLabel_MouseLeftButtonUp"
+               Content="About" Canvas.Left="10"/>
+        <Rectangle Fill="DarkGray" Height="2" Stroke="silver" VerticalAlignment="Top" Canvas.Left="10" Canvas.Top="32" Width="411"/>
+    </Canvas>
+</Window>

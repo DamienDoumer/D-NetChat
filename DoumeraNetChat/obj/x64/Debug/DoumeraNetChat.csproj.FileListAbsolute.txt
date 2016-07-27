@@ -1,0 +1,67 @@
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.exe.config
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.exe
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.pdb
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutDoumeraNetChat.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutWifiHotspotCreator.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AddAFriend.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ChangeSound.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\CreateConnectionWindow.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditFriend.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\App.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat_MarkupCompile.cache
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat_MarkupCompile.lref
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutDoumeraNetChat.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutWifiHotspotCreator.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AddAFriend.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ChangeSound.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\CreateConnectionWindow.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditFriend.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\MainWindow.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.g.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.Properties.Resources.resources
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.csproj.GenerateResource.Cache
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.exe
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.pdb
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditUserSettingsWindow.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditUserSettingsWindow.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\App.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ResourceDictionary1.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\Welcome.g.cs
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\Welcome.baml
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\NetChatCoreLibrary.pdb
+C:\Users\Damien\Desktop\Doumera0\mes programmes\projects\NetChat App\New Documentation\Source Code\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DNetChat.exe.config
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.exe.config
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.exe
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.pdb
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.exe
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\DoumeraNetChat.pdb
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\bin\x64\Debug\NetChatCoreLibrary.pdb
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutDoumeraNetChat.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutWifiHotspotCreator.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AddAFriend.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ChangeSound.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\CreateConnectionWindow.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditFriend.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditUserSettingsWindow.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\Welcome.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\App.g.cs
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat_MarkupCompile.cache
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat_MarkupCompile.lref
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\App.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutDoumeraNetChat.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AboutWifiHotspotCreator.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\AddAFriend.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ChangeSound.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\CreateConnectionWindow.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditFriend.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\EditUserSettingsWindow.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\MainWindow.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\ResourceDictionary1.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\Welcome.baml
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.g.resources
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.Properties.Resources.resources
+C:\Users\Damien\Desktop\V2\DoumeraNetChat\DoumeraNetChat\obj\x64\Debug\DoumeraNetChat.csproj.GenerateResource.Cache
